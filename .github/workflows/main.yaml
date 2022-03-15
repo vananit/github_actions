@@ -1,4 +1,7 @@
-on: push
+on:
+  push:
+    branch:
+      - develop
 name: Test, Build and Release apk
 jobs:
   build:
