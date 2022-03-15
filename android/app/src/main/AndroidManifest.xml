@@ -2,7 +2,6 @@
     package="vn.flutter_app_github_action">
    <application
         android:label="flutter_app_github_action"
-        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

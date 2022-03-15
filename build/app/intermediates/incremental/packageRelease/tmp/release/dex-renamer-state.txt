@@ -1,0 +1,4 @@
+#Tue Mar 15 19:43:53 ICT 2022
+base.0=/Users/tranvanan/Desktop/Development/github_actions/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
